@@ -6,6 +6,6 @@
   </a>
 </p>
 <!-- Subtle gradient header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbbf24,50:fb923c,100:f97316&height=120&section=header&text=Sheetal%20Kadolkar&fontSize=40&fontAlign=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9f1c,50:ff7a18,100:ff3d00&height=120&section=header&text=Sheetal%20Kadolkar&fontSize=40&fontAlign=50&fontColor=ffffff"/>
 
 <h3 align="center">🌐 DevOps Engineer | Cloud | GitHub Actions</h3>
