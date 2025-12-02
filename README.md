@@ -2,7 +2,7 @@
 <!-- Minimal typing header (decent animation) -->
 <p align="center">
   <a href="https://github.com/SheetalKadolkar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=880&lines=Hey+%F0%9F%91%8B+I'm+Sheetal+Kadolkar;Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Serverless+%7C+Linux" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=880&lines=Hey+%F0%9F%91%8B+I'm+Sheetal+Kadolkar;Cloud+%26+DevOps+Engineer" alt="Typing Animation">
   </a>
 </p>
 <!-- Subtle gradient header -->
