@@ -10,6 +10,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9f1c,50:ff7a18,100:ff3d00&height=120&section=header&text=Sheetal%20Kadolkar&fontSize=40&fontAlign=50&fontColor=ffffff"/>
 
 <h3 align="center">🌐 Cloud | DevOps Engineer </h3>
+---
+## 🌟 About Me
+
+Hi, I’m **Sheetal Kadolkar**, an aspiring **Cloud & DevOps Engineer** passionate about building reliable, automated, and scalable infrastructure. I enjoy creating **CI/CD pipelines**, automating cloud deployments, and designing resilient systems using **AWS, GitHub, Docker, Kubernetes, Terraform, and Jenkins**.
+
+> 🚀 *Turning infrastructure into code and ideas into scalable reality.*
+
+---
+
 
 ---
 ## ☁️ Cloud & DevOps Stack
