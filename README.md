@@ -15,3 +15,4 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-0ea5e9?style=flat" alt="open"/>
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat" alt="linkedin"/>
 </p>
+<h3 align="center">🌐 DevOps Engineer | Cloud | GitHub Actions</h3>
