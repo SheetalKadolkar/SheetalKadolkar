@@ -25,4 +25,12 @@ Hi, I’m **Sheetal Kadolkar**, an aspiring **Cloud & DevOps Engineer** passiona
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,python,nginx,github&perline=7&theme=dark" />
 </p>
-<div align="center" style="background-color:#f0f9ff; padding:20px;"/>
+<div align="center" style="background-color:#f0f9ff; padding:20px;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=160&section=footer"/>
+
+<h3 align="center"><strong>🚀☁️🔧</strong></h3>
+
+<img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%">
+
+</div>
