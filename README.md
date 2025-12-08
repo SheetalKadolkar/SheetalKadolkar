@@ -23,7 +23,7 @@ Hi, I’m **Sheetal Kadolkar**, an aspiring **Cloud & DevOps Engineer** passiona
 ## ☁️ Cloud & DevOps Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,python,nginx,github&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,python,nginx,sonarqube,github&perline=7&theme=dark" />
 </p>
 <div align="center" style="background-color:#f0f9ff; padding:20px;">
 
