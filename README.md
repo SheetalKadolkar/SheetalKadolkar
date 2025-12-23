@@ -12,7 +12,10 @@
 
 ## 🌟 About Me
 
-Hi, I’m **Sheetal Kadolkar**, an aspiring **Cloud & DevOps Engineer** passionate about building reliable, automated, and scalable infrastructure. I enjoy creating **CI/CD pipelines**, automating cloud deployments, and designing resilient systems using **AWS, GitHub, Docker, Kubernetes, Terraform, and Jenkins**.
+👋 Hi, I’m **Sheetal Kadolkar**
+🚀 Aspiring Cloud & DevOps Engineer
+I build and automate cloud infrastructure using **AWS, design CI/CD pipelines,** and work with **Docker, Kubernetes, Jenkins, Terraform, and GitHub**.
+I enjoy turning manual processes into automated, reliable systems with **Ansible, Chef, Puppet, and keeping them observable using Prometheus & Grafana**.
 
 > 🚀 *Turning infrastructure into code and ideas into scalable reality.*
 
