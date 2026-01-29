@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=880&lines=Hey+%F0%9F%91%8B+I'm+Sheetal+Kadolkar;Cloud+%26+DevOps+Engineer" alt="Typing Animation">
 </p>
-<h3 align="center">🌐 Cloud | DevOps Engineer </h3>
+<h3 align="center">🌐 Cloud | DevOps Engineer | AWS Certified Solutions Architect - Associate </h3>
 
 ## 🌟 About Me
 
